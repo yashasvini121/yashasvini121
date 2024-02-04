@@ -4,13 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=50&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=Backend+Developer;Competitive+Programmer;Open+Source+Contributor;AI/ML+Developer)](https://git.io/typing-svg)
 
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100"/>
-</div>
-
-
-
 [![An image of @yashasvini121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashasvini121)](https://holopin.io/@yashasvini121)
 
 
