@@ -1,4 +1,7 @@
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Yashasvini Sharma          <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" alt="c" width="35" height="35"></h1>
+<h2 align='center'>Hey <𝚌𝚘𝚍𝚎𝚛/>! 👋</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&pause=13000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I%27m+Yashasvini+Sharma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=50&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=Backend+Developer;Competitive+Programmer;Open+Source+Contributor;AI/ML+Developer)](https://git.io/typing-svg)
 
 
 
