@@ -1,7 +1,7 @@
 <h2 align='center'>Hey <𝚌𝚘𝚍𝚎𝚛/>! 👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&pause=13000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I%27m+Yashasvini+Sharma)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=50&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=Backend+Developer;Competitive+Programmer;Open+Source+Contributor;AI/ML+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&pause=13000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I%27m+Yashasvini+Sharma)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=50&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=Backend+Developer;Competitive+Programmer;Open+Source+Contributor;AI/ML+Developer)](#)
 
 
 [![An image of @yashasvini121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashasvini121)](https://holopin.io/@yashasvini121)
@@ -28,19 +28,6 @@
     <br>
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/yashasvini121"> ![Static Badge](https://img.shields.io/badge/yashasvini121-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fpranav-barthwal-b1a3631ba%2F)
   </div>
-
-
----
-
-<h2 align="center">Connect with Me</h2>
-<p align="left">
-
-  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/pranav-barthwal-b1a3631ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-</p>
 
 ---
 
@@ -78,7 +65,7 @@
   <img alt= "stats card"  width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvini121&theme=tokyonight&hide_border=false&stroke=0000"/>
 </div>
 
-[![Yashasvini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashasvini121&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yashasvini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashasvini121&theme=react-dark)](#)
 
 
 
